@@ -9,4 +9,4 @@
 5. Copy and paste the link that pops up into your browser (usually a localhost of some sort)
 6. You can now navigate to which ever python notebook you want (model.ipynb) and run them to observe the results
 
-# readme.ipynb had sources for data and some instrcutions for running if you get suck
+# readme.ipynb had sources for data and some instructions for running if you get suck
